@@ -10,6 +10,9 @@
    <a href="https://www.linkedin.com/in/deborah-rodrigues">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+  <a href="https://instagram.com/rodriguesndeborah?igshid=OGQ5ZDc2ODk2ZA==">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
 </div>
 
 </br>
