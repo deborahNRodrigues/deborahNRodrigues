@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there  I'm Déborah do  Nascimento Rodrigues👋
 
-<!--
-**deborahNRodrigues/deborahNRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...IT support analyst
 - 🌱 I’m currently learning ...
