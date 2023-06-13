@@ -9,8 +9,6 @@
  
    <a href="https://www.linkedin.com/in/deborah-rodrigues">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>>
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
