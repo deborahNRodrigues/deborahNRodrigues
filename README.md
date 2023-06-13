@@ -12,6 +12,16 @@
   </a>
 </div>
 
+</br>
+</br>
+
+## Hello, Devs!!
+
+ Moro em Manaus/Amazonas e sou apaixonada por programação, dogs e café muitooo  café! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo mais me apaixono por esse universo de códigos e bugs, e aumento o meu consumo de café, afinal café e código andam juntos, sempre disposta a aprender e me aperfeiçoar como profissional, em transição para área de programação!  ❤
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 
 
