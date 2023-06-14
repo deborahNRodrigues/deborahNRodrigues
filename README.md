@@ -34,6 +34,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
+          
 
 </br>
 </br>
@@ -45,6 +47,6 @@
  <p align="left">📚 Tenho estudado PHP,HTML5, CSS3,JavaScript,Composer,Git e GitHub,Boostrap,WordPress,Docker</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a 
  href="https://instagram.com/rodriguesndeborah?igshid=OGQ5ZDc2ODk2ZA==">Instagram</a>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">☕:dog::baby: Adorooo um bom café e só acordo depois de um bom copo, adoro dogs (tenho praticamente um canil) e um bebê lindo que o motivo da minha constante busca de aperfeiçoamento e evolução.</p>
 </div>
 
