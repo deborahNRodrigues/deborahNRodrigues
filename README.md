@@ -38,3 +38,12 @@
 </br>
 </br>
 
+</br>
+</br>
+<div display="inline-block">
+ <p align="left"> FULL STACK PHP DEVELOPER <a href="https://www.upinside.com.br/">UpInside</a>;</p>
+ <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
+ <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
+ <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+</div>
+
