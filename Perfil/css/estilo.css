@@ -1,0 +1,22 @@
+.perfilLateral header h3{
+    color: white;       
+    text-align: center;
+    
+}
+.perfilLateral header,#apresentacaoTexto{
+    text-align: center;
+}
+
+.icone-home{
+   position: absolute;
+   top: 80px;
+   left: 300px;
+}
+.textohome{
+    color:black;
+    text-align: right;
+  
+   
+    
+    
+}
