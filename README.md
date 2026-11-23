@@ -47,9 +47,9 @@
  <p align="left">📚 Tenho estudado PHP,HTML5, CSS3,JavaScript,Composer,Git e GitHub,Boostrap,WordPress,Docker</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a 
  href="https://instagram.com/rodriguesndeborah?igshid=OGQ5ZDc2ODk2ZA==">Instagram</a>
- <p align="left">☕:dog::baby: Adorooo um bom café e só acordo depois de um bom copo, adoro dogs (tenho praticamente um canil) e um bebê lindo que é o motivo da minha constante busca de aperfeiçoamento e evolução.</p>
+ <p align="left">☕::dog::baby: Adorooo um bom café e só acordo depois de um bom copo, adoro dogs (tenho praticamente um canil) e um bebê lindo que é o motivo da minha constante busca de aperfeiçoamento e evolução.</p>
 </div>
 
-##
+
 
 
